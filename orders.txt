@@ -12,4 +12,8 @@ git push -u origin master
 
 npm install react-router-dom
 
+npm install --save firebase
+
+
+
 
