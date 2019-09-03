@@ -22,6 +22,21 @@ npm install redux-persist
 
 npm install react-stripe-checkout
 
+( after installing heroku cli )
+
+heroku --version 
+
+heroku login
+
+heroku create crwn-clothing-ecommerce-live --buildpack https://github.com/mars/create-react-app-buildpack.git 
+
+https://crwn-clothing-ecommerce-live.herokuapp.com/ | https://git.heroku.com/crwn-clothing-ecommerce-live.git
+
+git push heroku master 
+
+
+
+
 
 
 
