@@ -34,7 +34,7 @@ https://crwn-clothing-ecommerce-live.herokuapp.com/ | https://git.heroku.com/crw
 
 git push heroku master 
 
-
+npm install styled-components
 
 
 
