@@ -36,6 +36,8 @@ git push heroku master
 
 npm install styled-components
 
+npm install redux-thunk
+
 
 
 
